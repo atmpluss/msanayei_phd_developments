@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libvtk.a CMakeFiles/vtk.dir/Base64Writer.cpp.o CMakeFiles/vtk.dir/Initialization.cpp.o CMakeFiles/vtk.dir/VTKOutput.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libvtk.a

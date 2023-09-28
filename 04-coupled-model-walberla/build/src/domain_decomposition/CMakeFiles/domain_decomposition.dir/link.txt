@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdomain_decomposition.a CMakeFiles/domain_decomposition.dir/BlockDataHandling.cpp.o CMakeFiles/domain_decomposition.dir/BlockStorage.cpp.o CMakeFiles/domain_decomposition.dir/IBlock.cpp.o CMakeFiles/domain_decomposition.dir/MapPointToPeriodicDomain.cpp.o CMakeFiles/domain_decomposition.dir/PeriodicIntersect.cpp.o CMakeFiles/domain_decomposition.dir/PeriodicIntersectionVolume.cpp.o CMakeFiles/domain_decomposition.dir/StructuredBlockStorage.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdomain_decomposition.a

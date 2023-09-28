@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libpde.a CMakeFiles/pde.dir/sweeps/SweepBase.cpp.o CMakeFiles/pde.dir/iterations/JacobiIteration.cpp.o CMakeFiles/pde.dir/iterations/RBGSIteration.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libpde.a

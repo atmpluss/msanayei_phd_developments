@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
+ <Collection>
+  <DataSet timestep="0" file="particles/simulation_step_0.vtu"/>
+  <DataSet timestep="100" file="particles/simulation_step_100.vtu"/>
+  <DataSet timestep="200" file="particles/simulation_step_200.vtu"/>
+  <DataSet timestep="300" file="particles/simulation_step_300.vtu"/>
+  <DataSet timestep="400" file="particles/simulation_step_400.vtu"/>
+  <DataSet timestep="500" file="particles/simulation_step_500.vtu"/>
+  <DataSet timestep="600" file="particles/simulation_step_600.vtu"/>
+  <DataSet timestep="700" file="particles/simulation_step_700.vtu"/>
+  <DataSet timestep="800" file="particles/simulation_step_800.vtu"/>
+  <DataSet timestep="900" file="particles/simulation_step_900.vtu"/>
+  <DataSet timestep="1000" file="particles/simulation_step_1000.vtu"/>
+  <DataSet timestep="1100" file="particles/simulation_step_1100.vtu"/>
+  <DataSet timestep="1200" file="particles/simulation_step_1200.vtu"/>
+  <DataSet timestep="1300" file="particles/simulation_step_1300.vtu"/>
+  <DataSet timestep="1400" file="particles/simulation_step_1400.vtu"/>
+  <DataSet timestep="1500" file="particles/simulation_step_1500.vtu"/>
+  <DataSet timestep="1600" file="particles/simulation_step_1600.vtu"/>
+  <DataSet timestep="1700" file="particles/simulation_step_1700.vtu"/>
+  <DataSet timestep="1800" file="particles/simulation_step_1800.vtu"/>
+  <DataSet timestep="1900" file="particles/simulation_step_1900.vtu"/>
+  <DataSet timestep="2000" file="particles/simulation_step_2000.vtu"/>
+  <DataSet timestep="2100" file="particles/simulation_step_2100.vtu"/>
+ </Collection>
+</VTKFile>

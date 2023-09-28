@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtimeloop.a CMakeFiles/timeloop.dir/PerformanceMeter.cpp.o CMakeFiles/timeloop.dir/SweepTimeloop.cpp.o CMakeFiles/timeloop.dir/Timeloop.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtimeloop.a

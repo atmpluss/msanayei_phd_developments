@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblbm.a CMakeFiles/lbm.dir/field/initializer/ExprSystemInitFunction.cpp.o CMakeFiles/lbm.dir/free_surface/bubble_model/DistanceInfo.cpp.o CMakeFiles/lbm.dir/free_surface/bubble_model/MergeInformation.cpp.o CMakeFiles/lbm.dir/free_surface/bubble_model/NewBubbleCommunication.cpp.o CMakeFiles/lbm.dir/free_surface/surface_geometry/Utility.cpp.o CMakeFiles/lbm.dir/geometry/IntersectionRatio.cpp.o CMakeFiles/lbm.dir/lattice_model/CollisionModel.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblbm.a

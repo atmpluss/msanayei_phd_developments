@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblbm_mesapd_coupling.a CMakeFiles/lbm_mesapd_coupling.dir/amr/weight_assignment/MetisAssignmentFunctor.cpp.o CMakeFiles/lbm_mesapd_coupling.dir/utility/SubCyclingManager.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblbm_mesapd_coupling.a

@@ -1,0 +1,2 @@
+# Empty compiler generated dependencies file for PE_SYNCEQUIVALENCE.
+# This may be replaced when dependencies are built.

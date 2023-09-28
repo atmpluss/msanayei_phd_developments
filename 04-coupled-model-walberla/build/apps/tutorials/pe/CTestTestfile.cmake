@@ -1,0 +1,10 @@
+# CMake generated Testfile for 
+# Source directory: /Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/apps/tutorials/pe
+# Build directory: /Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/build/apps/tutorials/pe
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(01_Tutorial_ConfinedGas "/opt/homebrew/bin/mpiexec" "-n" "8" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/build/apps/tutorials/pe/01_Tutorial_ConfinedGas")
+set_tests_properties(01_Tutorial_ConfinedGas PROPERTIES  LABELS "" PROCESSORS "8" _BACKTRACE_TRIPLES "/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/cmake/waLBerlaFunctions.cmake;359;add_test;/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/apps/tutorials/pe/CMakeLists.txt;11;waLBerla_execute_test;/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/apps/tutorials/pe/CMakeLists.txt;0;")
+add_test(02_Tutorial_ConfinedGasExtended "/opt/homebrew/bin/mpiexec" "-n" "8" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "-oversubscribe" "/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/build/apps/tutorials/pe/02_Tutorial_ConfinedGasExtended" "02_ConfinedGasExtended.cfg")
+set_tests_properties(02_Tutorial_ConfinedGasExtended PROPERTIES  LABELS "" PROCESSORS "8" _BACKTRACE_TRIPLES "/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/cmake/waLBerlaFunctions.cmake;359;add_test;/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/apps/tutorials/pe/CMakeLists.txt;12;waLBerla_execute_test;/Users/mohammadsanayei/Desktop/FBAM-tryAdding Cohesion/walberla/apps/tutorials/pe/CMakeLists.txt;0;")
